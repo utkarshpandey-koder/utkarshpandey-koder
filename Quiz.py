@@ -114,7 +114,7 @@ else:
   prize+=0
   print(f"Wrong answer ,\nYour Total Prize = {prize}")
 stars()
-print("\nQuestion 10(For 10 Cr. Rs.).\n_________,I'm a Gay.\nEnter the Correct Option:\nIf you Quit You are a Gay !\na)Yes \nb)Maybe\nc)ofcourse\nd)No")
+print("\nQuestion 10(For 10 Cr. Rs.).\n_________,I'm a Good Person.\nEnter the Correct Option:\na)Yes \nb)Maybe\nc)ofcourse\nd)No")
 a10=input()
 match a10:
   case "a":
