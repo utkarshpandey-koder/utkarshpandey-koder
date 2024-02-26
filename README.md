@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarshpandey-koder
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ & Python language
+- 🌱 I Have basic introduction of C++,Java  & Python Programming Languages.
 - 📫 How to reach me Instagram-@UtKarshpandey47
 
 <!---
