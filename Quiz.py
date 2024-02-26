@@ -81,10 +81,10 @@ else:
   prize+=0
   if prize<10000000:
     print(f"Wrong answer ,\nYour Total Prize = {prize}")
-  if prize==10000000:
+  if prize>10000000:
     print(f"Wrong answer ,\nYour Total Prize = {prize}/1 Cr.")
-  if prize==20000000:
-    print(f"Wrong answer ,\nYour Total Prize = {prize}/2 Cr.")
+  # if prize==20000000:
+    # print(f"Wrong answer ,\nYour Total Prize = {prize}/2 Cr.")
 stars()
 print("\nQuestion 8(For 2 Cr. Rs.).\nWhat will be the output of the following Python program?\ni = 0\nwhile i < 5:\n  print(i)\n  i += 1\nif i == 3:         \n  break\nelse:\n  print(0)\na) error    b) 0 1 2 0\nc) 0 1 2    d) none of the mentioned")
 a8=input()
