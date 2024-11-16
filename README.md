@@ -58,5 +58,27 @@ Interactive slicers were created to filter by:
 
 ---
 
+## How to Open This Project
+
+1. **Download Power BI Desktop:**  
+   - If you don’t already have it, download Power BI Desktop from the [official Power BI website](https://powerbi.microsoft.com/).
+
+2. **Download the Project File:**  
+   - Clone this repository or directly download the `.pbix` file from the repository.
+
+3. **Open the Dashboard File:**  
+   - Launch Power BI Desktop and open the downloaded `.pbix` file.
+
+4. **Connect Data Sources (if required):**  
+   - If prompted, update the data source paths (e.g., Excel, SQL Server) in `File > Options and Settings > Data Source Settings`.
+
+5. **Explore the Dashboard:**  
+   - Use slicers and filters to interact with the dashboard and analyze the data.
+
+6. **Publish the Dashboard (Optional):**  
+   - Log in to Power BI Service and publish the dashboard for web access and sharing.
+
+---
+
 ## Conclusion
 The **EV Population and Trend Analysis Dashboard** The dashboard shows that the electric vehicle (EV) market is growing quickly. Most EVs are fully electric (78%), and Tesla is the top manufacturer. On average, EVs can travel 67.83 km on a single charge, showing current battery performance. Popular models like the Model Y and Model 3 are driving this growth, especially after 2020, when the market expanded rapidly due to better technology and more interest from buyers.
