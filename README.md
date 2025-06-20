@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarshpandey-koder
+- 👋 Hi, I’m @utkarshpandey
 - 👀 I’m interested in Programming
 - 🌱 I Have basic introduction of C++,Java  & Python Programming Languages.
 - 📫 How to reach me Instagram-@UtKarshpandey47
